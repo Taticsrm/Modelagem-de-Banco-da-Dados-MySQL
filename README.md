@@ -1,2 +1,4 @@
-# Modelagem-de-Banco-da-Dados-MySQL
+# Banco-de-Dados-MySQL
+##Modelagem de Dados
 Modelagem de banco de dados relacionais.
+##Schemas MySQL
